@@ -1,0 +1,40 @@
+#field{
+	border: double red 10px;
+height:100%;
+box-sizing:border-box;
+}
+html{
+height:100%;
+}
+body{
+height: 100%;
+margin:0;
+padding: 0;
+}
+
+#ball{
+	font-size: 42px;
+	font-weight: bold;
+	position: absolute;
+	left:50%;
+	top:50%;
+}
+#ball2{
+	font-size: 22px;
+	font-weight: bold;
+	position: absolute;
+	left:20%;
+	top:20%;
+}
+#ball3{
+	font-size: 42px;
+	font-weight: bold;
+	position: absolute;
+	left:80%;
+	top:50%;
+}
+#image{
+	background-image:'киев.jpg';
+	width: 64px;
+	height: 64px;
+}
